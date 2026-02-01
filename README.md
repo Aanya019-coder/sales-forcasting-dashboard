@@ -65,8 +65,8 @@ An end-to-end machine learning solution that forecasts retail sales and optimize
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/sales-forecasting-dashboard.git
-cd sales-forecasting-dashboard
+git clone https://github.com/Aanya019-coder/sales-forcasting-dashboard.git
+cd sales-forcasting-dashboard
 ```
 
 ### Step 2: Create Virtual Environment
