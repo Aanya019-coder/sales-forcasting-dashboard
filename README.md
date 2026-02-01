@@ -241,10 +241,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/yourprofile)
-- 🐙 GitHub: [@yourusername](https://github.com/yourusername)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 💼 LinkedIn: (https://linkedin.com/in/aanya-chaudhary)
+- 🐙 GitHub: (https://github.com/Aanya019-coder)
+- 📧 Email: aanyachaudhary024@gmail.com
 
 ---
 
