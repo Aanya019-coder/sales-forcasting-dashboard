@@ -1,0 +1,16 @@
+@echo off
+echo Running Data Pipeline (Generation -> Training -> Optimization)...
+call venv\Scripts\activate
+set PYTHONIOENCODING=utf-8
+echo 1. Generating Data...
+python src\generate_data.py
+echo 2. Training Models (this may take a minute)...
+python src\forecast_model.py
+echo 3. Optimizing Inventory...
+python src\inventory_optimizer.py
+echo 4. Generating Visuals...
+python notebooks\01_data_exploration.py
+echo ============================
+echo ✅ Pipeline Execution Complete!
+echo ============================
+pause
